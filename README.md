@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Rust related work, especially Video Games
 - 📫 How to reach me: [https://github.com/HidekiAI/](https://github.com/HidekiAI/)
 - 😄 Pronouns: Him/He/His/it/bit
-- ⚡ Fun fact: If you want to get a real programming job, you need to know modern C++, and in a technical interview, NEVER mention functional programming, and just continue to praise OOP...
+- ⚡ Fun fact: If you want to get a real programming job, you need to know modern C++, and in a technical interview, NEVER mention functional programming if you suspect/sense that the interviewer has never sweated on FP, but rather just continue to praise OOP...
 - 🙈🙉🙊 [hobby based bio](https://codemonkeyninja.github.io/)
 - 🙈🙉🙊 [profession based bio](https://hidekiai.github.io/)
 <!---
