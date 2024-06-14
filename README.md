@@ -5,7 +5,8 @@
 - 📫 How to reach me: [https://github.com/HidekiAI/](https://github.com/HidekiAI/)
 - 😄 Pronouns: Him/He/His/it/bit
 - ⚡ Fun fact: If you want to get a real programming job, you need to know modern C++, and in a technical interview, NEVER mention functional programming, and just continue to praise OOP...
-
+- 🙈🙉🙊 [hobby based bio](https://codemonkeyninja.github.io/)
+- 🙈🙉🙊 [profession based bio](https://hidekiai.github.io/)
 <!---
 CodeMonkeyNinja/CodeMonkeyNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
